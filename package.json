@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Git-Askhat/NodeJSCrud/issues"
   },
-  "homepage": "https://github.com/Git-Askhat/NodeJSCrud#readme"
+  "homepage": "https://github.com/Git-Askhat/NodeJSCrud#readme",
+  "devDependencies": {
+    "@types/node": "14.14.35"
+  }
 }
