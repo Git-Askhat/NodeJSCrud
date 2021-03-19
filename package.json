@@ -1,0 +1,20 @@
+{
+  "name": "NodeJSCrud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Git-Askhat/NodeJSCrud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Git-Askhat/NodeJSCrud/issues"
+  },
+  "homepage": "https://github.com/Git-Askhat/NodeJSCrud#readme"
+}
