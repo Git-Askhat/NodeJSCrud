@@ -1,23 +1,17 @@
 {
-  "name": "NodeJSCrud",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Git-Askhat/NodeJSCrud.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Git-Askhat/NodeJSCrud/issues"
-  },
-  "homepage": "https://github.com/Git-Askhat/NodeJSCrud#readme",
-  "devDependencies": {
-    "@types/node": "14.14.35"
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "nodemon": "2.0.7",
+    "pg": "8.5.1"
   }
 }
